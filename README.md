@@ -1,8 +1,8 @@
-# Telegram Movie Bot
+# IIMDb
 
 ## Features
 
-- [x] Auto Filter
+- [x] IMDb
 - [x] Manuel Filter
 - [x] IMDB
 - [x] Admin Commands
