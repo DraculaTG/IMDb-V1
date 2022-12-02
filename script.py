@@ -19,13 +19,12 @@ I'm here to help you manage your groups! Hit /help to find out more about how to
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Source: <a href='https://github.com/DraculaTG/IMDb-V2'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/Daemon_Rogue_Prince'>Daemon</a>"""
 
-<b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
