@@ -9,8 +9,8 @@ I'm here to help you manage your groups! Hit /help to find out more about how to
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/aaron_shaji'>Aaron</a>
+    ABOUT_TXT = """
+➥ Creator: <a href='https://t.me/Daemon_Rogue_Prince'>Daemon</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
